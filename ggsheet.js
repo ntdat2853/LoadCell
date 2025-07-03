@@ -1,4 +1,4 @@
-const SHEET_NAME = "TestLoadCell1KG";
+const SHEET_NAME = "LoadCell1KG";
 
 
 function doGet(e) {
